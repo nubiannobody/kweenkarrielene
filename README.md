@@ -13,11 +13,11 @@
 
 ## ✨ Welcome, who am I ✨:
 
-- I'm a black woman! 💁🏾
-- I have a goldendoodle! 🐩
+- I'm a black woman 💁🏾
+- I have a goldendoodle 🐩
 - I started my tech career journey as a Software Engineer in the U.S. Navy ⚓️
 - I'm a Texas Girl 🤟🏾, Houston born & raised. 🤠
-- I'm the cofounder of a software company <a href="https://www.mahoganyandmango.com/" target="_blank" rel="noreferrer">Mahogany 'n' Mango </a>.🥭
+- I'm the cofounder of a software company <a href="https://www.mahoganyandmango.com/" target="_blank" rel="noreferrer">Mahogany 'n' Mango </a> 🥭
 - I speak English and Spanish, currently learning French 🙊
 - I sing 🎤
 - Anything you think you can, you can. 🤎
