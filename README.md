@@ -34,9 +34,9 @@
 
 ## 🤩 I razzle dazzle in these areas 💃🏾
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=ffdd54)
-![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=red)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=orange)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blueviolet?style=flat&logo=JavaScript)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=ffdd54)
 
 ![GitHub Actions](https://img.shields.io/badge/CICD-GitHubActions-informational?style=flat&logo=GitHub&color=green)
 ![Jenkins](https://img.shields.io/badge/CICD-Jenkins-informational?style=flat&logo=Jenkins&color=C47AC0)
