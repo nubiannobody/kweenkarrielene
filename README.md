@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="http://www.thebinarybae.tech/" target="_blank" rel="noreferrer"><img width="1500" height="300" src="/Users/kweenyoallhiadakarrielene/Desktop/kweenkarrielene/images/BLM.jpg" alt="My banner which features five brown colored hearts ranging from the darkest to the lightest shade of brown and reads black lives matter.">
+    <a href="http://www.thebinarybae.tech/" target="_blank" rel="noreferrer"><img width="1500" height="300" src="/Users/kweenyoallhiadakarrielene/Desktop/kweenkarrielene/images/BLM.jpg">
     </a>
 </p>
 
