@@ -22,7 +22,7 @@
 - I sing 🎤
 - Anything you think you can, you can. 🤎
 
-## 🧠 I’m currently learning about 🌺 ...
+## 🧠 I’m currently learning about 🌺
 
 - Blockchain ⛓
 - CSS 🌀
@@ -30,6 +30,7 @@
 - JavaScript 😱
 - NFTs 🏆
 - Web3 🕸
+- ...To be continued 🔮
 
 ## 🤩 I razzle dazzle in these areas 💃🏾
 
