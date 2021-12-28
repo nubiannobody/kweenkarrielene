@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="http://www.thebinarybae.tech/" target="_blank" rel="noreferrer"><img width="1500" height="300" src="/Users/kweenyoallhiadakarrielene/Desktop/kweenkarrielene/images/BLM.jpg">
+    <a href="http://www.thebinarybae.tech/" target="_blank" rel="noreferrer"><img width="1500" height="300" src=images/BLM.jpg>
     </a>
 </p>
 
